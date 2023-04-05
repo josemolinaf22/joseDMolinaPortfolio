@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joseDMolinaPortfolio/static/css/main.74dbe2de.css",
+    "main.js": "/joseDMolinaPortfolio/static/js/main.b55daf7a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/joseDMolinaPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/nightCrawl.png": "/joseDMolinaPortfolio/static/media/nightCrawl.459c36d9f03fcec732cc.png",
+    "static/media/JoseDMolinaResume.pdf": "/joseDMolinaPortfolio/static/media/JoseDMolinaResume.573d49bbc34a5fcd5825.pdf",
+    "static/media/profile-img.jpeg": "/joseDMolinaPortfolio/static/media/profile-img.bd651f1e78f423b4436a.jpeg",
+    "static/media/home-main.svg": "/joseDMolinaPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/joseDMolinaPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/apexLegends.png": "/joseDMolinaPortfolio/static/media/apexLegends.bf5e843dd6437853398e.png",
+    "static/media/logo.png": "/joseDMolinaPortfolio/static/media/logo.c3125fa104217c18b913.png",
+    "static/media/pre.svg": "/joseDMolinaPortfolio/static/media/pre.11c16a46a01c29bff088.svg",
+    "index.html": "/joseDMolinaPortfolio/index.html",
+    "main.74dbe2de.css.map": "/joseDMolinaPortfolio/static/css/main.74dbe2de.css.map",
+    "main.b55daf7a.js.map": "/joseDMolinaPortfolio/static/js/main.b55daf7a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/joseDMolinaPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74dbe2de.css",
+    "static/js/main.b55daf7a.js"
+  ]
+}

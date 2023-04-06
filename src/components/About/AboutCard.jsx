@@ -39,7 +39,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            The most damaging phrase in the language is "It's always been doen
+            The most damaging phrase in the language is "It's always been done
             this way"{" "}
           </p>
           <footer className="blockquote-footer">Grace Hopper </footer>

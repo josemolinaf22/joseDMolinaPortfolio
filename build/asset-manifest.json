@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/joseDMolinaPortfolio/static/css/main.74dbe2de.css",
-    "main.js": "/joseDMolinaPortfolio/static/js/main.b55daf7a.js",
+    "main.css": "/joseDMolinaPortfolio/static/css/main.b02c03f9.css",
+    "main.js": "/joseDMolinaPortfolio/static/js/main.169befd8.js",
     "static/js/787.1ed0c42c.chunk.js": "/joseDMolinaPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/nightCrawl.png": "/joseDMolinaPortfolio/static/media/nightCrawl.459c36d9f03fcec732cc.png",
     "static/media/JoseDMolinaResume.pdf": "/joseDMolinaPortfolio/static/media/JoseDMolinaResume.573d49bbc34a5fcd5825.pdf",
@@ -12,12 +12,12 @@
     "static/media/logo.png": "/joseDMolinaPortfolio/static/media/logo.c3125fa104217c18b913.png",
     "static/media/pre.svg": "/joseDMolinaPortfolio/static/media/pre.11c16a46a01c29bff088.svg",
     "index.html": "/joseDMolinaPortfolio/index.html",
-    "main.74dbe2de.css.map": "/joseDMolinaPortfolio/static/css/main.74dbe2de.css.map",
-    "main.b55daf7a.js.map": "/joseDMolinaPortfolio/static/js/main.b55daf7a.js.map",
+    "main.b02c03f9.css.map": "/joseDMolinaPortfolio/static/css/main.b02c03f9.css.map",
+    "main.169befd8.js.map": "/joseDMolinaPortfolio/static/js/main.169befd8.js.map",
     "787.1ed0c42c.chunk.js.map": "/joseDMolinaPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74dbe2de.css",
-    "static/js/main.b55daf7a.js"
+    "static/css/main.b02c03f9.css",
+    "static/js/main.169befd8.js"
   ]
 }

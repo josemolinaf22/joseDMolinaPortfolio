@@ -37,7 +37,7 @@ function NavBar() {
       className={navColor ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/josemolina.github.io" className="d-flex">
+        <Navbar.Brand href="/" className="d-flex">
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -53,21 +53,13 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/josemolina.github.io"
-                onClick={() => setExpand(false)}
-              >
+              <Nav.Link as={Link} to="/home" onClick={() => setExpand(false)}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/about"
-                onClick={() => setExpand(false)}
-              >
+              <Nav.Link as={Link} to="/about" onClick={() => setExpand(false)}>
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
             </Nav.Item>
@@ -86,11 +78,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/resume"
-                onClick={() => setExpand(false)}
-              >
+              <Nav.Link as={Link} to="/resume" onClick={() => setExpand(false)}>
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>

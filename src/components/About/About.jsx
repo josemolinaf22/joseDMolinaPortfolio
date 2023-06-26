@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+import laptopImg from "../../Assets/Untitled_Artwork10.png";
 import Toolstack from "./Toolstack";
 
 function About() {

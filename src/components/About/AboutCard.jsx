@@ -38,7 +38,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgba(255,255,255,0.7)" }}>
             The most damaging phrase in the language is "It's always been done
             this way"{" "}
           </p>

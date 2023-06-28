@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import nightCrawl from "../../Assets/Projects/nightCrawl.png";
 import apexLegends from "../../Assets/Projects/apexLegends.png";
 import soccerHub from "../../Assets/Projects/soccerHub.jpg";
+import jqProject from "../../Assets/Projects/jqueryProject.png";
 
 function Projects() {
   return (
@@ -55,7 +56,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={soccerHub}
+              imgPath={jqProject}
               isBlog={false}
               title="Simon game using jQuery"
               description="Developed a game utilizing HTML, CSS, JavaScript, and jQuery to get an understanding on jQuery. Successfully implemented the game with jQuery, streamlining the development process significantly."

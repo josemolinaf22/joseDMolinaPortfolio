@@ -19,11 +19,16 @@ function Particle() {
             opacity: 0.03,
           },
           move: {
-            direction: "right",
-            speed: 0.05,
+            direction: "bottom",
+            enable: true,
+            outModes: {
+              default: "out",
+            },
+            speed: 0.5,
           },
           size: {
-            value: 1,
+            value: 2,
+            random: true,
           },
           opacity: {
             anim: {
@@ -37,12 +42,12 @@ function Particle() {
           events: {
             onclick: {
               enable: true,
-              mode: "push",
+              mode: "remove",
             },
           },
           modes: {
-            push: {
-              particles_nb: 1,
+            remove: {
+              particles_nb: 10,
             },
           },
         },

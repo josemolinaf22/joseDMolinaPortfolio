@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
 </h2>
 <div align="center">
   
@@ -48,10 +48,5 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
-
-
-
-
-You can fork this repo to modify by following this link to the original creater: <br> <a href='https://github.com/soumyajit4419/Portfolio'>Click me </a>. Thanks!
 
 # joseDMolinaPortfolio

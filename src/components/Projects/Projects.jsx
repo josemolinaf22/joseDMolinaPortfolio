@@ -35,7 +35,7 @@ function Projects() {
               imgPath={nightCrawl}
               isBlog={false}
               title="SLC NIGHT CRAWL"
-              description="A developed site to unite people by following a route that others have created. Users can create/login to account to access available crawls. All this is powered by google static maps API."
+              description='Developed a platform that unites users by following "crawls" through the city created by others, utilizing the Google Static Maps API to show the locations to meet. Implemented user account creation and login functionality for privacy and to access available crawls.'
               ghLink="https://github.com/josemolinaf22/barCrawl-capstone"
               demoLink="https://www.youtube.com/watch?v=NwhH6Pkd-M0&t=50s"
             />
@@ -52,7 +52,9 @@ function Projects() {
             />
           </Col>
         </Row>
-        <p style={{ color: "white" }}>Learning projects</p>
+         <h1 className="project-heading">
+          <strong className="purple">Learning Projects</strong>
+        </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard

@@ -34,11 +34,10 @@ function Home2() {
               <i>
                 <b className="purple">personal legend</b>
               </i>
-              , and it is time to face my fears of failure head on. Here you can
-              see my previous work as well as what I'm currently working on.
-              Please contact me if you'd like to collaborate on some projects.
-              You can also follow me on my social media accounts, which are
-              linked in the footer.
+              . Here you can see my previous work as well as what I'm currently
+              working on. Please contact me if you'd like to collaborate on some
+              projects. You can also follow me on my social media accounts,
+              which are linked in the footer.
               <br />
               <br />
             </p>

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.eb3bc9b7.css",
-    "main.js": "/static/js/main.a479b108.js",
+    "main.js": "/static/js/main.48f344fb.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Untitled_Artwork9.png": "/static/media/Untitled_Artwork9.b6f44d76255a73a84ed2.png",
     "static/media/Untitled_Artwork10.png": "/static/media/Untitled_Artwork10.c0c8b74a31323047958c.png",
     "static/media/nightCrawl.png": "/static/media/nightCrawl.459c36d9f03fcec732cc.png",
     "static/media/jqueryProject.png": "/static/media/jqueryProject.f2a2a2c10fd474012608.png",
-    "static/media/JoseDMolinaResume.pdf": "/static/media/JoseDMolinaResume.d118b2ef870ec59df9bb.pdf",
     "static/media/profile-img.jpeg": "/static/media/profile-img.bd651f1e78f423b4436a.jpeg",
+    "static/media/JoseDMolinaResume.pdf": "/static/media/JoseDMolinaResume.0aefe2454fcdce46bade.pdf",
     "static/media/soccerHub.jpg": "/static/media/soccerHub.6c51654edebeed27028a.jpg",
     "static/media/ecommerce.png": "/static/media/ecommerce.a29c59bb76c82e1fc3ba.png",
     "static/media/apexLegends.png": "/static/media/apexLegends.bf5e843dd6437853398e.png",
@@ -16,11 +16,11 @@
     "static/media/pre.svg": "/static/media/pre.11c16a46a01c29bff088.svg",
     "index.html": "/index.html",
     "main.eb3bc9b7.css.map": "/static/css/main.eb3bc9b7.css.map",
-    "main.a479b108.js.map": "/static/js/main.a479b108.js.map",
+    "main.48f344fb.js.map": "/static/js/main.48f344fb.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb3bc9b7.css",
-    "static/js/main.a479b108.js"
+    "static/js/main.48f344fb.js"
   ]
 }
